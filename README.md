@@ -30,3 +30,4 @@ Wake Up -> Browse Gmail -> Put down phone -> Browse Gmail ->
 - Vlookups
 - Slicing/Filtering
 - Pivot Tables
+- Basic Formulas
